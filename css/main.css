@@ -92,11 +92,26 @@ h1 {
 
 
 @media (max-width: 480px) {
+  
+  	.page-header {
+		margin-top: 50px;
+ 	}
+
+  	.container h1 {
+  		font-size: 3.2em;
+  		margin-bottom: 0.35em;
+  	}
+
+  	.container h2 {
+  		font-size: 1.3em;
+  		margin-bottom: 0.35em;
+  	}
+
 	.container {
     	width: 100%;
    		padding-right: 15px;
     	padding-left: 15px;
-  }
+  	}
 
 	#screen {
 		width: 100%;
