@@ -14,7 +14,8 @@ var myArray = [
 	"Sincap",
 	"Haylaz",
 	"Danino",
-	"Saklanbaç"
+	"Saklanbaç",
+	"Jelibon"
 ];
 
 var yourArray = [
@@ -29,6 +30,11 @@ var yourArray = [
 	"aslında",
 	"hem",
 	"fakat",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
 	" ",
 	" ",
 	" ",
@@ -85,7 +91,9 @@ var himArray = [
 	"Çilekleri",
 	"Paltosu",
 	"Kazağı",
-	"Kumpanyası"
+	"Kumpanyası",
+	"Karnavalı",
+	"Reçeli"
 ];
 
 
